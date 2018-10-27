@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vnurt Test</string>
+    <string name="action_help">Help</string>
+    <string name="action_contact">Contact Us</string>
+    <string name="title_activity_help_pop">HelpPop</string>
+    <string name="help_pop_tagline">At your help, always.</string>
+    <string name="help_pop_email_sub_one">Email Us</string>
+    <string name="help_pop_phone_sub_one">Call Us</string>
+    <string name="help_pop_email_sub_two">Response time is less than 6 hours</string>
+    <string name="help_pop_phone_sub_two">Response time is less than 5 minutes</string>
+</resources>
